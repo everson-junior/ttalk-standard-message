@@ -50,7 +50,7 @@
 				"hierarchicalLevel"
 			],
 			"properties": {
-				"codexxx": {
+				"code": {
 					"description": "Código",
 					"type": "integer",
 					"x-totvs": [
